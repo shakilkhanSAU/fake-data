@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dim ruti vaja",
+        "price": 11.3,
+        "id": "breakfast1",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/0mG1RnP/breakfast1.png"
+    },
+    {
+        "name": "Vegetable Food",
+        "price": 7.3,
+        "id": "breakfast2",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/WnKNx8T/breakfast2.png"
+    },
+    {
+        "name": "Khasi ruti vaja",
+        "price": 22.3,
+        "id": "breakfast3",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/1dW91Q6/breakfast3.png"
+    },
+    {
+        "name": "cake vegetable",
+        "price": 13.3,
+        "id": "breakfast4",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/bJNMJMg/breakfast4.png"
+    },
+    {
+        "name": "butter and Egg",
+        "price": 12.3,
+        "id": "breakfast5",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/k5963XQ/breakfast5.png"
+    },
+    {
+        "name": "Tomato salad",
+        "price": 9.3,
+        "id": "breakfast6",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/cQSJ9hq/breakfast6.png"
+    },
+    {
+        "name": "Dim ruti vaja",
+        "price": 7.3,
+        "id": "dinner1",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/Xxwf6gn/dinner1.png"
+    },
+    {
+        "name": "Vegetable Food",
+        "price": 27.3,
+        "id": "dinner2",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/z6tNXDj/dinner2.png"
+    },
+    {
+        "name": "Khasi ruti vaja",
+        "price": 17.3,
+        "id": "dinner3",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/FXCrCVN/dinner3.png"
+    },
+    {
+        "name": "cake vegetable",
+        "price": 23.3,
+        "id": "dinner4",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/xqXp4P0/dinner4.png"
+    },
+    {
+        "name": "butter and Egg",
+        "price": 12.3,
+        "id": "dinner5",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/0sYknsc/dinner5.png"
+    },
+    {
+        "name": "Tomato salad",
+        "price": 23.3,
+        "id": "dinner6",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/V9V6hdm/dinner6.png"
+    },
+    {
+        "name": "Spicy chickhen salad",
+        "price": 17.3,
+        "id": "lunch1",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/87J561k/lunch1.png"
+    },
+    {
+        "name": "Khala roast",
+        "price": 27.3,
+        "id": "lunch2",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/Kj9Pjtn/lunch2.png"
+    },
+    {
+        "name": "Vegetable chickhen",
+        "price": 15.3,
+        "id": "lunch3",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/N9qTPBK/lunch3.png"
+    },
+    {
+        "name": "Meat and Rice",
+        "price": 32.3,
+        "id": "lunch4",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/nCjjSGK/lunch4.png"
+    },
+    {
+        "name": "Rice and curry",
+        "price": 12.3,
+        "id": "luncht5",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/BPtThm6/lunch5.png"
+    },
+    {
+        "name": "Cahow milow",
+        "price": 10.3,
+        "id": "lunch6",
+        "description": "Eat healty keep healty. Fast delivery, deals & discounts and the best choice of restaurants. Order now! Delicious meals delivered fresh to your door. Browse our menu & order online! Hot Meals Delivered Fast. Enjoy Healthy meals.",
+        "img": "https://i.ibb.co/fGLJbfX/lunch6.png"
+    }
+]
