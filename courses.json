@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Blender",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "animation",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
+        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Web Design",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "web",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
+        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Graphic Design",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "graphic",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
+        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Video Editing",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "video",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
+        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+    },
+    {
+        "id": 5,
+        "name": "SEO",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "seo",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
+        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Digital Marketing",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "digital",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
+        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Animation",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "animation",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
+        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Web Design",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "web",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
+        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Graphic Design",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "graphic",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
+        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Video Editing",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "video",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation.",
+        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+    },
+    {
+        "id": 11,
+        "name": "SEO",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "seo",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you.",
+        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+    }
+]
