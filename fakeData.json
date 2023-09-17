@@ -2,7 +2,7 @@
     {
         "id": 1,
         "hour": "20h : 30min",
-        "instructor": "Md. Shakil Khan",
+        "instructor": "Hridoy Das",
         "name": "Blender",
         "price": 1000,
         "duration": "2 months",
@@ -35,7 +35,7 @@
     {
         "id": 4,
         "hour": "20h : 30min",
-        "instructor": "Md. Shakil Khan",
+        "instructor": "Aktaruzzaman Badhan",
         "name": "Video Editing",
         "price": 1000,
         "duration": "2 months",
@@ -68,7 +68,7 @@
     {
         "id": 7,
         "hour": "20h : 30min",
-        "instructor": "Md. Shakil Khan",
+        "instructor": "Hridoy Das",
         "name": "Animation",
         "price": 1000,
         "duration": "2 months",
@@ -101,7 +101,7 @@
     {
         "id": 10,
         "hour": "20h : 30min",
-        "instructor": "Md. Shakil Khan",
+        "instructor": "Aktaruzzaman Badhan",
         "name": "Video Editing",
         "price": 1000,
         "duration": "2 months",
@@ -117,6 +117,17 @@
         "price": 1000,
         "duration": "2 months",
         "categories": "seo",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you.",
+        "image": "https://d1tq3fcx54x7ou.cloudfront.net/uploads/store/tenant_161/templateswidget/6310/image/large-56e04dc294aaee1013be8beb5b9ffd24.jpeg"
+    },
+    {
+        "id": 12,
+        "hour": "20h : 30min",
+        "instructor": "Md. Shakil Khan",
+        "name": "Digital Marketing",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "digital",
         "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you.",
         "image": "https://d1tq3fcx54x7ou.cloudfront.net/uploads/store/tenant_161/templateswidget/6310/image/large-56e04dc294aaee1013be8beb5b9ffd24.jpeg"
     }
