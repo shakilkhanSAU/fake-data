@@ -1,101 +1,123 @@
 [
     {
         "id": 1,
+        "hour": "20h : 30min",
+        "instructor": "Hridoy Das",
         "name": "Blender",
         "price": 1000,
         "duration": "2 months",
         "categories": "animation",
         "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
-        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+        "image": "https://d1tq3fcx54x7ou.cloudfront.net/uploads/store/tenant_161/templateswidget/6310/image/large-56e04dc294aaee1013be8beb5b9ffd24.jpeg"
     },
     {
         "id": 2,
+        "hour": "20h : 30min",
+        "instructor": "Md. Shakil Khan",
         "name": "Web Design",
         "price": 1000,
         "duration": "2 months",
         "categories": "web",
         "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
-        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+        "image": "https://beaconit.org/wp-content/uploads/2020/11/Web-Design-Training-Program_Bangladesh-1024x604.jpg"
     },
     {
         "id": 3,
-        "name": "Graphic Design",
+        "hour": "20h : 30min",
+        "instructor": "Hridoy Das",
+        "name": "Animation for Beginners",
         "price": 1000,
         "duration": "2 months",
-        "categories": "graphic",
-        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
-        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+        "categories": "animation",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you.",
+        "image": "https://www.apple.com/tv-pr/articles/2021/04/apple-original-films-and-skydance-animation-announce-exquisite-animated-short-film-blush/images/big-image/041421_Animated_Short_Film_Blush_big_image_post.jpg.og.jpg"
     },
     {
         "id": 4,
+        "hour": "20h : 30min",
+        "instructor": "Aktaruzzaman Badhan",
         "name": "Video Editing",
         "price": 1000,
         "duration": "2 months",
         "categories": "video",
         "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
-        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+        "image": "https://images.ctfassets.net/63bmaubptoky/lp_F77LYpsLp18ilKLyaG8EUmHeHi_14xADfDAlPqCw/e5efecae4ee19461056f81631f7b6bf7/Best-free-video-editing-software-AU-Capterra-Header.png"
     },
     {
         "id": 5,
+        "hour": "20h : 30min",
+        "instructor": "Md. Shakil Khan",
         "name": "SEO",
         "price": 1000,
         "duration": "2 months",
         "categories": "seo",
         "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
-        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+        "image": "https://d1tq3fcx54x7ou.cloudfront.net/uploads/store/tenant_161/templateswidget/6310/image/large-56e04dc294aaee1013be8beb5b9ffd24.jpeg"
     },
     {
         "id": 6,
+        "hour": "20h : 30min",
+        "instructor": "Md. Shakil Khan",
         "name": "Digital Marketing",
         "price": 1000,
         "duration": "2 months",
         "categories": "digital",
         "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
-        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+        "image": "https://d1tq3fcx54x7ou.cloudfront.net/uploads/store/tenant_161/templateswidget/6310/image/large-56e04dc294aaee1013be8beb5b9ffd24.jpeg"
     },
     {
         "id": 7,
-        "name": "Animation",
+        "hour": "20h : 30min",
+        "instructor": "Hridoy Das",
+        "name": "Animation for Professionals",
         "price": 1000,
         "duration": "2 months",
         "categories": "animation",
         "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
-        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+        "image": "https://www.apple.com/tv-pr/articles/2021/04/apple-original-films-and-skydance-animation-announce-exquisite-animated-short-film-blush/images/big-image/041421_Animated_Short_Film_Blush_big_image_post.jpg.og.jpg"
     },
     {
         "id": 8,
+        "hour": "20h : 30min",
+        "instructor": "Md. Shakil Khan",
         "name": "Web Design",
         "price": 1000,
         "duration": "2 months",
         "categories": "web",
         "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
-        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+        "image": "https://beaconit.org/wp-content/uploads/2020/11/Web-Design-Training-Program_Bangladesh-1024x604.jpg"
     },
     {
         "id": 9,
-        "name": "Graphic Design",
-        "price": 1000,
-        "duration": "2 months",
-        "categories": "graphic",
-        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation and will help you to create your own animation videos.",
-        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
-    },
-    {
-        "id": 10,
+        "hour": "20h : 30min",
+        "instructor": "Aktaruzzaman Badhan",
         "name": "Video Editing",
         "price": 1000,
         "duration": "2 months",
         "categories": "video",
         "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you to learn the basics of animation.",
-        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+        "image": "https://images.ctfassets.net/63bmaubptoky/lp_F77LYpsLp18ilKLyaG8EUmHeHi_14xADfDAlPqCw/e5efecae4ee19461056f81631f7b6bf7/Best-free-video-editing-software-AU-Capterra-Header.png"
     },
     {
-        "id": 11,
+        "id": 10,
+        "hour": "20h : 30min",
+        "instructor": "Md. Shakil Khan",
         "name": "SEO",
         "price": 1000,
         "duration": "2 months",
         "categories": "seo",
         "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you.",
-        "image": "https://i.ibb.co/0jZzQYH/reanimate.jpg"
+        "image": "https://d1tq3fcx54x7ou.cloudfront.net/uploads/store/tenant_161/templateswidget/6310/image/large-56e04dc294aaee1013be8beb5b9ffd24.jpeg"
+    },
+    {
+        "id": 11,
+        "hour": "20h : 30min",
+        "instructor": "Hridoy Das",
+        "name": "Animation for Beginners",
+        "price": 1000,
+        "duration": "2 months",
+        "categories": "animation",
+        "description": "Reanimate is a course for the students who are interested in animation and want to learn it from the scratch. This course will help you.",
+        "image": "https://www.apple.com/tv-pr/articles/2021/04/apple-original-films-and-skydance-animation-announce-exquisite-animated-short-film-blush/images/big-image/041421_Animated_Short_Film_Blush_big_image_post.jpg.og.jpg"
     }
 ]
